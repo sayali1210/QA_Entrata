@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-01T15:33:12 IST" name="Default suite" finished-at="2024-03-01T15:33:57 IST" duration-ms="45414">
+    <groups>
+    </groups>
+    <test started-at="2024-03-01T15:33:12 IST" name="Default test" finished-at="2024-03-01T15:33:57 IST" duration-ms="45414">
+      <class name="pkg_QA_Entrata_web.QA_Entrata_web_class">
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:12 IST" name="beforeEachTest" description="Driver Initiallisation and Open entrata.com Homepage" finished-at="2024-03-01T15:33:47 IST" duration-ms="35388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="testHomePageTitle()[pri:1, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:47 IST" name="testHomePageTitle" description="Test Home Page Title" finished-at="2024-03-01T15:33:49 IST" duration-ms="1754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageTitle -->
+        <test-method signature="testElementPresenceSignIn()[pri:2, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:49 IST" name="testElementPresenceSignIn" description="Test Sign Button" finished-at="2024-03-01T15:33:49 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testElementPresenceSignIn -->
+        <test-method signature="ButtonClickableWatchDemo()[pri:3, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:49 IST" name="ButtonClickableWatchDemo" description="Test Watch Demo Button" finished-at="2024-03-01T15:33:49 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonClickableWatchDemo -->
+        <test-method signature="test_navigation_bar()[pri:4, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:49 IST" name="test_navigation_bar" description="Test Navigation bar" finished-at="2024-03-01T15:33:49 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_navigation_bar -->
+        <test-method signature="testSocialMediaLinks()[pri:5, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:49 IST" name="testSocialMediaLinks" description="Verify Social Media Links" finished-at="2024-03-01T15:33:50 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSocialMediaLinks -->
+        <test-method signature="testAcceptCookies()[pri:6, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:50 IST" name="testAcceptCookies" description="Click on Acccept Cookies Button" finished-at="2024-03-01T15:33:50 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAcceptCookies -->
+        <test-method signature="testoperatingsystemButton()[pri:7, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:50 IST" name="testoperatingsystemButton" description="Verify that Learn More Button navigate to another page " finished-at="2024-03-01T15:33:55 IST" duration-ms="4945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testoperatingsystemButton -->
+        <test-method signature="Completetheform()[pri:8, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:55 IST" name="Completetheform" description="Complete the form to read the full study. " finished-at="2024-03-01T15:33:57 IST" duration-ms="2010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Completetheform -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:pkg_QA_Entrata_web.QA_Entrata_web_class@43bc63a3]" started-at="2024-03-01T15:33:57 IST" name="afterEachTest" description="	Driver switch to main window and close" finished-at="2024-03-01T15:33:57 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+      </class> <!-- pkg_QA_Entrata_web.QA_Entrata_web_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
